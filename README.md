@@ -1,0 +1,2 @@
+# awsrepo
+os in ubuntu
